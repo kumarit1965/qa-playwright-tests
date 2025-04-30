@@ -1,0 +1,11 @@
+{
+  "name": "qa-playwright-tests",
+  "version": "1.0.0",
+  "description": "QA automation suite for GreatFrontEnd using Playwright",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.1"
+  }
+}
